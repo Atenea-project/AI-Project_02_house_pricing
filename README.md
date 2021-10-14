@@ -11,9 +11,6 @@ In this project, we only use three methods to select features:
     
 - **Z-score (standard score)** -
     This number is a metric of how far from the mean a data point is. This measure describes how many standard deviations below or above the mean a point is. 
-    In this project we use the following equation to obtain the z-score
-    
- $$z=\frac{x-\mu}{\sigma}$$
     
 - **P-values** -
     The p-value is the probability that a calculated statistical value is possible given a true null hypothesis. This value allows us to differentiate between statistically significant results and those product of chance in the sampling. 
